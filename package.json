@@ -1,0 +1,24 @@
+{
+  "name": "zadanie_19_4",
+  "version": "1.0.0",
+  "description": "Web Developer Bootcamp Kodilla redux2 ;-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectKodilla/zadanie_19_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjectKodilla/zadanie_19_4/issues"
+  },
+  "homepage": "https://github.com/ProjectKodilla/zadanie_19_4#readme",
+  "dependencies": {
+    "redux": "^3.7.2",
+    "uuid": "^3.2.1"
+  }
+}
